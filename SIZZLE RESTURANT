@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css">
+    <meta name="viewport" content="wclassth=device-wclassth, initial-scale=1.0">
+    <title>Sizzle Restaurant</title>
+</head>
+<body>
+    <header>
+        <h1>Sizzle Restaurant</h1>
+        
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#school">School</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#food">Food</a></li>
+                <li><a href="#shop">Shop</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    
+
+    <section class="about">
+        <!-- About Us content -->
+        <h2>About Us</h2>
+        <!-- Add more content here -->
+    </section>
+
+    <div class="main">
+        <section class="school">
+            <!-- School content -->
+            <h2>School</h2>
+            <ul>
+                <li>Desert and Pastry Certificate Diploma Course (3 weeks) - ₦300,000</li>
+                <li>African Cuisine Diploma Course (3 weeks) - ₦250,000</li>
+                <li>International Cuisines Course (1 month) - ₦300,000</li>
+                <li>Cake Baking and Decorating Course (3 weeks) - ₦250,000</li>
+                <li>All-Round Professional Diploma Certificate (1 year) - ₦3,000,000</li>
+            </ul>
+        </section>
+    
+        <section class="services">
+            <!-- Services content -->
+            <h2>Services</h2>
+            <ul>
+                <li>Kitchen Designing and Redecorating</li>
+                <li>Restaurant Management and Consulting</li>
+            </ul>
+        </section>
+    
+        <section class="food">
+            <!-- Food content -->
+            <h2>Food</h2>
+            <ul>
+                <li>Desert</li>
+                <li>African Cuisine</li>
+                <li>Intercontinental Cuisine</li>
+                <li>Drinks</li>
+            </ul>
+        </section>
+    
+        <section class="shop">
+            <!-- Shop content -->
+            <h2>Shop</h2>
+            <ul>
+                <li>Household Section</li>
+                <li>Kitchen Utensils Section</li>
+            </ul>
+        </section>
+    </div>
+
+    <footer>
+        <p>© 2023 Sizzle Restaurant. All rights reserved.</p>
+    </footer>
+</body>
+</html>
